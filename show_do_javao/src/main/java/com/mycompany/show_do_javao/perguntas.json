@@ -1,0 +1,111 @@
+[
+{   
+    "pergunta" : "O que é java",
+    "respostaA" : "É um tipo de café",
+    "respostaB" : "É um sistema operacional",
+    "respostaC" : "É um editor de texto",
+    "respostaD" : "É uma linguagem de programação",
+    "respostaCorreta" : "d"
+}
+,
+
+{
+    "pergunta" : "Qual comando imprime algo na tela em Java?",
+    "respostaA" : "print()",
+    "respostaB" : "echo",
+    "respostaC" : "System.out.println()",
+    "respostaD" : "console.log()",
+    "respostaCorreta" : "c"
+}
+,
+
+{
+    "pergunta" : "Qual método é o ponto de entrada em um programa Java?",
+    "respostaA" : "run()",
+    "respostaB" : "main()",
+    "respostaC" : "start()",
+    "respostaD" : "execute()",
+    "respostaCorreta" : ""
+}
+,
+
+{
+    "pergunta" : "Qual palavra-chave usamos para criar uma subclasse em Java?",
+    "respostaA" : "inherits",
+    "respostaB" : "super",
+    "respostaC" : "extends",
+    "respostaD" : "instanceof",
+    "respostaCorreta" : "c"
+}
+,
+
+{
+    "pergunta" : "Qual das opções cria um método estático válido em Java?",
+    "respostaA" : "public method static void exemplo()",
+    "respostaB" : "public static void exemplo()",
+    "respostaC" : "static public exemplo()",
+    "respostaD" : "void static exemplo()",
+    "respostaCorreta" : "b"
+}
+,
+
+{
+    "pergunta" : "Qual bloco é usado para capturar exceções em Java?",
+    "respostaA" : "try/catch",
+    "respostaB" : "catch/throw",
+    "respostaC" : "try/except",
+    "respostaD" : "handle/error",
+    "respostaCorreta" : "a"
+}
+,
+
+{
+    "pergunta" : "O que acontece se uma classe implementa uma interface mas não define todos os métodos dela?",
+    "respostaA" : "O programa compila normalmente",
+    "respostaB" : "A classe se torna abstrata automaticamente",
+    "respostaC" : "O programa lança uma exceção",
+    "respostaD" : "A interface é ignorada",
+    "respostaCorreta" : "b"
+}
+,
+
+{
+    "pergunta" : "Qual palavra-chave indica herança em Java?",
+    "respostaA" : "inherits",
+    "respostaB" : "super",
+    "respostaC" : "extends",
+    "respostaD" : "instanceof",
+    "respostaCorreta" : "c"
+}
+,
+
+{
+    "pergunta" : "Qual é a forma correta de uma expressão lambda que soma dois números?",
+    "respostaA" : "(a + b) -> a, b",
+    "respostaB" : "(a, b) -> a + b",
+    "respostaC" : "a, b -> (a + b)",
+    "respostaD" : "-> (a + b, a, b)",
+    "respostaCorreta" : "b"
+}
+,
+
+{
+    "pergunta" : "O que significa JVM?",
+    "respostaA" : "Java Version Manager",
+    "respostaB" : "Java Virtual Machine",
+    "respostaC" : "Java Visual Model",
+    "respostaD" : "Java Variable Memory",
+    "respostaCorreta" : "b"
+}
+,
+
+{
+    "pergunta" : "Qual coleção não permite elementos duplicados?",
+    "respostaA" : "ArrayList",
+    "respostaB" : "HashMap",
+    "respostaC" : "LinkedList",
+    "respostaD" : "HashSet",
+    "respostaCorreta" : "d"
+}
+
+]
