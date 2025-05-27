@@ -3,8 +3,6 @@ package com.mycompany.show_do_javao;
 import java.util.Scanner;
 import org.json.JSONArray;
 import org.json.JSONObject;
-import java.io.FileReader;
-import java.io.BufferedReader;
 import java.io.File;
 
 public class Game {
@@ -36,6 +34,7 @@ public class Game {
                 + "Venca para ganhar 1 milhao de Libras Libanesas!\n"
                 + "==============================";
 
+        System.out.println(inicio);
         for (int i = 0; i < 10; i++) {
 
             JSONObject perguntax = perguntas.getJSONObject(i);
@@ -52,8 +51,7 @@ public class Game {
                     + "A) " + pergunta.getRespostaA() + "\n"
                     + "B) " + pergunta.getRespostaB() + "\n"
                     + "C) " + pergunta.getRespostaC() + "\n"
-                    + "D) " + pergunta.getRespostaD() + "\n"
-            );
+                    + "D) " + pergunta.getRespostaD() + "\n");
 
             String respoUsu = sc.nextLine();
 
