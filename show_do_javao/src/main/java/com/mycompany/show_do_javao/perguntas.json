@@ -1,10 +1,10 @@
 [
 {   
-    "pergunta" : "O que é java",
-    "respostaA" : "É um tipo de café",
-    "respostaB" : "É um sistema operacional",
-    "respostaC" : "É um editor de texto",
-    "respostaD" : "É uma linguagem de programação",
+    "pergunta" : "O que e java",
+    "respostaA" : "E um tipo de cafe",
+    "respostaB" : "E um sistema operacional",
+    "respostaC" : "e um editor de texto",
+    "respostaD" : "E uma linguagem de programaçao",
     "respostaCorreta" : "d"
 }
 ,
@@ -20,7 +20,7 @@
 ,
 
 {
-    "pergunta" : "Qual método é o ponto de entrada em um programa Java?",
+    "pergunta" : "Qual metodo e o ponto de entrada em um programa Java?",
     "respostaA" : "run()",
     "respostaB" : "main()",
     "respostaC" : "start()",
@@ -40,7 +40,7 @@
 ,
 
 {
-    "pergunta" : "Qual das opções cria um método estático válido em Java?",
+    "pergunta" : "Qual das opções cria um metodo estático válido em Java?",
     "respostaA" : "public method static void exemplo()",
     "respostaB" : "public static void exemplo()",
     "respostaC" : "static public exemplo()",
@@ -50,7 +50,7 @@
 ,
 
 {
-    "pergunta" : "Qual bloco é usado para capturar exceções em Java?",
+    "pergunta" : "Qual bloco e usado para capturar exceções em Java?",
     "respostaA" : "try/catch",
     "respostaB" : "catch/throw",
     "respostaC" : "try/except",
@@ -60,11 +60,11 @@
 ,
 
 {
-    "pergunta" : "O que acontece se uma classe implementa uma interface mas não define todos os métodos dela?",
+    "pergunta" : "O que acontece se uma classe implementa uma interface mas nao define todos os metodos dela?",
     "respostaA" : "O programa compila normalmente",
     "respostaB" : "A classe se torna abstrata automaticamente",
-    "respostaC" : "O programa lança uma exceção",
-    "respostaD" : "A interface é ignorada",
+    "respostaC" : "O programa lança uma exceçao",
+    "respostaD" : "A interface e ignorada",
     "respostaCorreta" : "b"
 }
 ,
@@ -80,7 +80,7 @@
 ,
 
 {
-    "pergunta" : "Qual é a forma correta de uma expressão lambda que soma dois números?",
+    "pergunta" : "Qual e a forma correta de uma expressao lambda que soma dois números?",
     "respostaA" : "(a + b) -> a, b",
     "respostaB" : "(a, b) -> a + b",
     "respostaC" : "a, b -> (a + b)",
@@ -100,7 +100,7 @@
 ,
 
 {
-    "pergunta" : "Qual coleção não permite elementos duplicados?",
+    "pergunta" : "Qual coleçao nao permite elementos duplicados?",
     "respostaA" : "ArrayList",
     "respostaB" : "HashMap",
     "respostaC" : "LinkedList",
