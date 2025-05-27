@@ -13,3 +13,15 @@ Pending
 ```
 git clone https://github.com/JoaoPedroBackXavier/Show-do-Jav-o.git
 ```
+2. Navegar até a pasta:
+```
+cd Show-do-Jav-o
+```
+3. Compilar o jogo:
+```
+javac Jogo.java
+```
+4. Executar:
+```
+java Jogo
+```
