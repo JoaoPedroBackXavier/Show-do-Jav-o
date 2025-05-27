@@ -62,5 +62,7 @@ public class Game {
                 i = 10;
             }
         }
+        
+        sc.close();
     }
 }
