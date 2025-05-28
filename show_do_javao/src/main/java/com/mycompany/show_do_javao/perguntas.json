@@ -32,20 +32,12 @@
     "respostaCorreta": "c"
   },
   {
-    "pergunta": "Qual das opcoes cria um metodo estático válido em Java?",
+    "pergunta": "Qual das opcoes cria um metodo estatico valido em Java?",
     "respostaA": "public method static void exemplo()",
     "respostaB": "public static void exemplo()",
     "respostaC": "static public exemplo()",
     "respostaD": "void static exemplo()",
     "respostaCorreta": "b"
-  },
-  {
-    "pergunta": "Qual bloco e usado para capturar excecoes em Java?",
-    "respostaA": "try/catch",
-    "respostaB": "catch/throw",
-    "respostaC": "try/except",
-    "respostaD": "handle/error",
-    "respostaCorreta": "a"
   },
   {
     "pergunta": "O que acontece se uma classe implementa uma interface mas nao define todos os metodos dela?",
